@@ -1,5 +1,11 @@
+import GameList from "./components/GameList";
+
 function App() {
-  return <h1>Привет, React! 🚀</h1>;
+  return (
+    <div>
+      <GameList />
+    </div>
+  );
 }
 
 export default App;
