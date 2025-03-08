@@ -1,5 +1,11 @@
 # Website Games React | Сайт с играми на React
 
+![image](https://github.com/user-attachments/assets/bc5467da-ed56-480c-bdc3-2cd071371cb9)
+
+
+![image](https://github.com/user-attachments/assets/076668d0-9bef-49fd-885f-76a7c614e892)
+
+
 Проект на React и Vite, который позволяет просматривать и искать игры через API RAWG. Включает динамическую интеграцию API, маршрутизацию, управление состоянием (localStorage) и кастомную стилизацию в тёмной тематике.
 
 A React and Vite project that allows you to browse and search for games using the RAWG API. Includes dynamic API integration, routing, state management (localStorage), and custom styling in a dark theme.
